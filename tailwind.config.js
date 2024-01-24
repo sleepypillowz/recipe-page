@@ -17,10 +17,25 @@ module.exports = {
       },
       fontFamily: {
         outfit: ['Outfit'],
-        youngserif:['Young Serif']
+        youngserif:['Young Serif'],
+        youngserif400: ['Young Serif', 'serif', '400'],
+        youngserif600: ['Young Serif', 'serif', '600'],
+        youngserif700: ['Young Serif', 'serif', '700'],
       },
       spacing: {
+        '32': '128px',
+        '33': '136px',
+        '34': '144px',
+        '35': '152px',
         '36': '160px',
+        '37': '168px',
+        '38': '176px',
+        '39': '184px',
+        '40': '192px',
+        '41': '200px',
+        '42': '208px',
+        '43': '216px',
+        '44': '224px',
       }
     },
   },
