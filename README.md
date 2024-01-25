@@ -22,7 +22,7 @@ This challenge will help you focus on writing semantic HTML. Ensure you think th
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-recipe-page-using-css-grid-and-flexbox-8BHL87qQb2)
 - Live Site URL: [Add live site URL here](sleepypillowz-recipe-page.netlify.app/)
 
 ### Screenshot
@@ -32,7 +32,11 @@ This challenge will help you focus on writing semantic HTML. Ensure you think th
 
 ## My process
 
-  1. 
+  1. I created the skeleton html
+  2. I added the contents of the page
+  3. I referred to the style-guide.md
+  4. I styled the contents of the page one by one
+  4. I organized the code using @layer base and components
 
 ### Built with
 
@@ -53,7 +57,6 @@ This challenge will help you focus on writing semantic HTML. Ensure you think th
 There are certain bugs that I'd like to fix in the future
   - Nutrition table value not aligning left
   - The color of the ol (*) and ul (1.)
-  - 
 
 ### Useful resources
 
