@@ -5,6 +5,35 @@
 @tailwind components;
 @tailwind utilities;
 
-.header {
-  @apply font-youngserif text-xl text-nutmeg
+@layer base {
+  body {
+    @apply mx-7 my-16 bg-eggshell font-outfit text-xs text-gray-600
+  }
+  h2 {
+    @apply mt-5 font-youngserif text-xl text-nutmeg;
+  }
+  hr {
+    @apply my-2;
+  }
+  b {
+    @apply text-gray-600;
+  }
+  ul {
+    @apply ml-5 list-disc
+  }
+  li {
+    @apply mt-2
+  }
+}
+
+.table-flex {
+  @apply flex flex-row justify-between
+}
+
+.table-key {
+  @apply ml-5
+}
+
+.table-value {
+  @apply mr-14  font-bold text-nutmeg md:mr-28
 }
