@@ -55,8 +55,7 @@ This challenge will help you focus on writing semantic HTML. Ensure you think th
 ### Continued development
 
 There are certain bugs that I'd like to fix in the future
-  - Nutrition table value not aligning left
-  - The color of the ol (*) and ul (1.)
+  - none for now, do message me if you spot a bug
 
 ### Useful resources
 

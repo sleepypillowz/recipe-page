@@ -7,7 +7,7 @@
 
 @layer base {
   body {
-    @apply mx-7 my-16 bg-eggshell font-outfit text-xs text-gray-600
+    @apply mx-7 my-16 bg-eggshell font-outfit text-base text-gray-600
   }
   h2 {
     @apply mt-5 font-youngserif text-xl text-nutmeg;
@@ -22,18 +22,23 @@
     @apply ml-5 list-disc
   }
   li {
-    @apply mt-2
+    @apply mt-2 text-nutmeg
+  }
+  span {
+    @apply text-gray-600 font-normal
+  }
+  tr {
+    @apply items-center border-b-2 border-b-gray-200
+  }
+  hr {
+    @apply mt-6
   }
 }
 
-.table-flex {
-  @apply flex flex-row justify-between
-}
-
 .table-key {
-  @apply ml-5
+  @apply py-3 pl-9
 }
 
 .table-value {
-  @apply mr-14  font-bold text-nutmeg md:mr-28
+  @apply font-bold text-orange-900
 }
