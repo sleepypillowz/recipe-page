@@ -55,7 +55,8 @@ This challenge will help you focus on writing semantic HTML. Ensure you think th
 ### Continued development
 
 There are certain bugs that I'd like to fix in the future
-  - none for now, do message me if you spot a bug
+  - fix paddings and margin
+  - Ingredients content color is wrong
 
 ### Useful resources
 
